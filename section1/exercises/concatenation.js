@@ -10,6 +10,8 @@ file from your terminal with the command `node section1/exercises/dataTypes.js`
 */
 
 // EXAMPLE: Write code that combines the variables below into another string:
+
+
 var name = "Ron";
 var team = "Chudley Cannons";
 
